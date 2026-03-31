@@ -62,21 +62,12 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### ⚖️ [PetiChat 2.0](https://github.com/luantaraschi/PetiChat-2.0)
-> SaaS de geração automatizada de documentos jurídicos com IA generativa.
+### 🕵️ [SUS — O Jogo do Impostor](https://github.com/luantaraschi/SUS)
+> Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
-- Geração dinâmica de petições e contratos por agentes de IA
-- Fluxos contextuais que substituem interações estáticas
-- **Stack:** TypeScript · AI Agents · Supabase
-
----
-
-### 📄 [JurisAI](https://github.com/luantaraschi/JurisAI)
-> Análise e estruturação automática de documentos jurídicos.
-
-- Extração inteligente de dados de contratos e processos
-- Integração com CRM jurídico
-- **Stack:** TypeScript · Document Processing · NLP
+- Salas em tempo real com blefe, discussão e votação entre jogadores
+- Três modos de jogo: Palavra, Pergunta e Local
+- **Stack:** Next.js · Convex · Tailwind CSS · Framer Motion · Three.js
 
 ---
 
@@ -89,27 +80,11 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 📋 [JVB Kanban](https://github.com/luantaraschi/jvb-kanban)
-> Board Kanban customizado para gestão de tarefas de clientes.
-
-- Interface drag-and-drop com colunas configuráveis
-- **Stack:** JavaScript · Frontend · UX
-
----
-
 ### 🎬 [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
-> Dublagemautomática de vídeos com IA preservando a voz original.
+> Dublagem automática de vídeos com IA preservando a voz original.
 
 - Pipeline de transcrição, tradução e síntese de voz com AI
 - **Stack:** Python · Speech AI · Audio Processing
-
----
-
-### 💼 [Dev Tools](https://github.com/luantaraschi/dev-tools)
-> Conjunto de utilitários e scripts para acelerar o workflow de desenvolvimento.
-
-- Ferramentas internas para automação de tarefas repetitivas
-- **Stack:** TypeScript · CLI · Automation
 
 ---
 
@@ -118,6 +93,14 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 - Upload de arquivos e perguntas em linguagem natural
 - **Stack:** RAG · LLM · Document Processing
+
+---
+
+### 💼 [Dev Tools](https://github.com/luantaraschi/dev-tools)
+> Conjunto de utilitários e scripts para acelerar o workflow de desenvolvimento.
+
+- Ferramentas internas para automação de tarefas repetitivas
+- **Stack:** TypeScript · CLI · Automation
 
 ---
 
