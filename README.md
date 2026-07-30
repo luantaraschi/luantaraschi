@@ -13,18 +13,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de IA e automações que resolvem problemas complexos. Transformo processos manuais em arquiteturas inteligentes e escaláveis.
 
-- 🚀 **SaaS Builder** — produtos do zero ao deploy, com foco em automação jurídica e financeira
-- 🤖 **Especialista em IA** — sistemas multi-agente, LLMs, RAG e orquestração de modelos
-- ⚡ **Automação avançada** — n8n, webhooks, integrações e pipelines end-to-end
-- 🌎 Salvador, Bahia — Brasil
+- **SaaS Builder** — produtos do zero ao deploy, com foco em automação jurídica e financeira
+- **Especialista em IA** — sistemas multi-agente, LLMs, RAG e orquestração de modelos
+- **Automação avançada** — n8n, webhooks, integrações e pipelines end-to-end
+- Salvador, Bahia — Brasil
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Linguagens
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -51,9 +51,9 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos
 
-### 🤖 [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0)
+### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0)
 > Sistema de consenso entre múltiplos modelos de IA para respostas mais precisas.
 
 - Arquitetura multi-agente onde diferentes LLMs debatem e chegam a um consenso
@@ -62,7 +62,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 🕵️ [SUS — O Jogo do Impostor](https://github.com/luantaraschi/SUS)
+### [SUS — O Jogo do Impostor](https://github.com/luantaraschi/SUS)
 > Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
 - Salas em tempo real com blefe, discussão e votação entre jogadores
@@ -71,7 +71,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 🖐️ [Hand Gestures](https://github.com/luantaraschi/Hand-Gestures)
+### [Hand Gestures](https://github.com/luantaraschi/Hand-Gestures)
 > Controle por gestos de mão via visão computacional em tempo real.
 
 - Reconhecimento de gestos usando MediaPipe e OpenCV
@@ -80,7 +80,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 🎬 [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
+### [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
 > Dublagem automática de vídeos com IA preservando a voz original.
 
 - Pipeline de transcrição, tradução e síntese de voz com AI
@@ -88,7 +88,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 📂 [AskMyFiles](https://github.com/luantaraschi/AskMyFiles)
+### [AskMyFiles](https://github.com/luantaraschi/AskMyFiles)
 > Chat com seus arquivos usando IA — RAG sobre documentos locais.
 
 - Upload de arquivos e perguntas em linguagem natural
@@ -96,7 +96,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-### 💼 [Dev Tools](https://github.com/luantaraschi/dev-tools)
+### [Dev Tools](https://github.com/luantaraschi/dev-tools)
 > Conjunto de utilitários e scripts para acelerar o workflow de desenvolvimento.
 
 - Ferramentas internas para automação de tarefas repetitivas
@@ -104,7 +104,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luantaraschi&theme=tokyonight" />
