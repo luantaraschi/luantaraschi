@@ -13,12 +13,15 @@
 
 ## Sobre mim
 
-Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de IA e automações que resolvem problemas complexos. Transformo processos manuais em arquiteturas inteligentes e escaláveis.
+Desenvolvedor full-stack focado em legaltech e automação com WhatsApp. Construo produtos do zero — da ideia ao deploy — com TypeScript, Python e LLMs.
 
-- **SaaS Builder** — produtos do zero ao deploy, com foco em automação jurídica e financeira
-- **Especialista em IA** — sistemas multi-agente, LLMs, RAG e orquestração de modelos
-- **Automação avançada** — n8n, webhooks, integrações e pipelines end-to-end
-- Salvador, Bahia — Brasil
+Atualmente em produção:
+
+- **PetiChat** — geração de documentos jurídicos com IA via WhatsApp
+- **Painel JVB** — dashboard de gestão para escritórios de advocacia
+- **Dindin** — educação financeira infantil (modelo Duolingo)
+
+Salvador, Bahia — Brasil
 
 ---
 
@@ -54,8 +57,8 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0)
 > Sistema de consenso entre múltiplos modelos de IA para respostas mais precisas.
 
-- Arquitetura multi-agente onde diferentes LLMs debatem e chegam a um consenso
-- Reduz alucinações por validação cruzada entre modelos
+- Construído porque nenhum modelo isolado é confiável o suficiente para decisões críticas — diferentes LLMs debatem e chegam a um consenso
+- Reduz alucinações através de validação cruzada entre modelos
 - **Stack:** Python · Multi-Agent Orchestration · LLM Integration
 
 ---
@@ -63,7 +66,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [SUS — O Jogo do Impostor](https://github.com/luantaraschi/SUS)
 > Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
-- Salas em tempo real com blefe, discussão e votação entre jogadores
+- Projeto para explorar estado distribuído em tempo real sem servidor central — salas com blefe, discussão e votação entre jogadores
 - Três modos de jogo: Palavra, Pergunta e Local
 - **Stack:** Next.js · Convex · Tailwind CSS · Framer Motion · Three.js
 
@@ -72,8 +75,8 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [Hand Gestures](https://github.com/luantaraschi/Hand-Gestures)
 > Controle por gestos de mão via visão computacional em tempo real.
 
-- Reconhecimento de gestos usando MediaPipe e OpenCV
-- Aplicável a interfaces acessíveis e controle sem toque
+- Exploração de interfaces sem toque — reconhecimento de gestos usando MediaPipe e OpenCV rodando localmente, sem dependência de API externa
+- Aplicável a interfaces acessíveis e controle por movimento
 - **Stack:** Python · OpenCV · MediaPipe
 
 ---
@@ -81,7 +84,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
 > Dublagem automática de vídeos com IA preservando a voz original.
 
-- Pipeline de transcrição, tradução e síntese de voz com AI
+- Construído para resolver o problema de conteúdo em português — pipeline completo de transcrição, tradução e síntese de voz mantendo o timbre original
 - **Stack:** Python · Speech AI · Audio Processing
 
 ---
@@ -89,6 +92,7 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [AskMyFiles](https://github.com/luantaraschi/AskMyFiles)
 > Chat com seus arquivos usando IA — RAG sobre documentos locais.
 
+- RAG local: seus documentos ficam na sua máquina, nenhum arquivo é enviado para API externa
 - Upload de arquivos e perguntas em linguagem natural
 - **Stack:** RAG · LLM · Document Processing
 
@@ -97,5 +101,5 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 ### [Dev Tools](https://github.com/luantaraschi/dev-tools)
 > Conjunto de utilitários e scripts para acelerar o workflow de desenvolvimento.
 
-- Ferramentas internas para automação de tarefas repetitivas
+- Ferramentas internas que uso no dia a dia — automação de tarefas repetitivas que o ecossistema padrão não resolve bem
 - **Stack:** TypeScript · CLI · Automation
