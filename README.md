@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
-
 # Luan Taraschi
 
 ### SaaS Builder · Full-Stack Developer · AI & Automation Specialist
@@ -101,22 +99,3 @@ Desenvolvedor full-stack com foco em construir produtos SaaS reais, sistemas de 
 
 - Ferramentas internas para automação de tarefas repetitivas
 - **Stack:** TypeScript · CLI · Automation
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luantaraschi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luantaraschi&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luantaraschi&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
-</div>
