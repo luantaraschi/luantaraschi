@@ -15,10 +15,6 @@
 
 Desenvolvedor full-stack focado em legaltech e automação com WhatsApp. Construo produtos do zero — da ideia ao deploy — com TypeScript, Python e LLMs.
 
-- **PetiChat** — geração de documentos jurídicos com IA via WhatsApp
-- **Painel JVB** — dashboard de gestão para escritórios de advocacia
-- **Dindin** — educação financeira infantil (modelo Duolingo)
-
 Salvador, Bahia — Brasil
 
 ---
