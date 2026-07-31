@@ -57,7 +57,7 @@ Salvador, Bahia — Brasil
 
 ---
 
-### [SUS — O Jogo do Impostor](https://github.com/luantaraschi/SUS)
+### [SUS: O Jogo do Impostor](https://github.com/luantaraschi/SUS)
 > Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
 - Projeto para explorar estado distribuído em tempo real sem servidor central — salas com blefe, discussão e votação entre jogadores
