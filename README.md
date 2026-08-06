@@ -48,6 +48,16 @@ Salvador, Bahia — Brasil
 
 ## Projetos
 
+### [Portfólio](https://github.com/luantaraschi/portfolio) · [ver ao vivo](https://portfolio-blond-xi-82.vercel.app)
+> Site pessoal em HTML, CSS e JavaScript puros — sem framework, sem build, sem dependência.
+
+- Sistema visual de 1 bit: duas cores por tema e dithering no lugar de imagem
+- A esfera do topo e o redemoinho da timeline não são arquivos — são canvas pintados pixel a pixel com matriz de Bayer 8×8 ordenada, com a direção da luz seguindo o cursor
+- Após vinte segundos parada a esfera "dorme" e vai ficando rala; qualquer movimento na página acorda ela
+- **Stack:** HTML · CSS · JavaScript · Canvas API
+
+---
+
 ### [SUS: O Jogo do Impostor](https://github.com/luantaraschi/SUS)
 > Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
