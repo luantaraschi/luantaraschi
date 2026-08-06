@@ -48,15 +48,6 @@ Salvador, Bahia — Brasil
 
 ## Projetos
 
-### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0)
-> Sistema de consenso entre múltiplos modelos de IA para respostas mais precisas.
-
-- Construído porque nenhum modelo isolado é confiável o suficiente para decisões críticas — diferentes LLMs debatem e chegam a um consenso
-- Reduz alucinações através de validação cruzada entre modelos
-- **Stack:** Python · Multi-Agent Orchestration · LLM Integration
-
----
-
 ### [SUS: O Jogo do Impostor](https://github.com/luantaraschi/SUS)
 > Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
 
@@ -76,24 +67,24 @@ Salvador, Bahia — Brasil
 ---
 
 ### [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
-> Dublagem automática de vídeos com IA preservando a voz original.
+> Dublagem automática de vídeos de inglês para português.
 
-- Construído para resolver o problema de conteúdo em português — pipeline completo de transcrição, tradução e síntese de voz mantendo o timbre original
-- **Stack:** Python · Speech AI · Audio Processing
-
----
-
-### [AskMyFiles](https://github.com/luantaraschi/AskMyFiles)
-> Chat com seus arquivos usando IA — RAG sobre documentos locais.
-
-- RAG local: seus documentos ficam na sua máquina, nenhum arquivo é enviado para API externa
-- Upload de arquivos e perguntas em linguagem natural
-- **Stack:** RAG · LLM · Document Processing
+- Construído para resolver o problema de conteúdo em português — pipeline completo de transcrição, tradução e síntese de voz, com sincronização por segmento
+- **Stack:** Python · Whisper · OpenRouter · Edge-TTS · MoviePy
 
 ---
 
 ### [Dev Tools](https://github.com/luantaraschi/dev-tools)
-> Conjunto de utilitários e scripts para acelerar o workflow de desenvolvimento.
+> Painel web que reúne utilitários de desenvolvimento numa interface única.
 
-- Ferramentas internas que uso no dia a dia — automação de tarefas repetitivas que o ecossistema padrão não resolve bem
-- **Stack:** TypeScript · CLI · Automation
+- Conversão de arquivos, geração de dados e formatação centralizados num dashboard com tema claro/escuro e navegação lateral
+- **Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS 4
+
+---
+
+### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0) · *fork de estudo*
+> Estudo sobre o [llm-council](https://github.com/karpathy/llm-council), de Andrej Karpathy.
+
+- O conceito e o código base são do autor original: vários LLMs respondem à mesma pergunta via OpenRouter, revisam e ranqueiam uns aos outros, e um modelo presidente sintetiza a resposta final
+- **O que eu acrescentei:** containerização completa (Docker Compose, Dockerfiles e nginx), dependências fixadas, camada de abstração do cliente de LLM e troca do armazenamento local por persistência em Supabase
+- **Stack:** Python · Docker · Supabase · OpenRouter
