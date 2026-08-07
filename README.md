@@ -44,53 +44,6 @@ Salvador, Bahia — Brasil
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
----
-
-## Projetos
-
-### [Portfólio](https://github.com/luantaraschi/portfolio) · [ver ao vivo](https://portfolio-blond-xi-82.vercel.app)
-> Site pessoal em HTML, CSS e JavaScript puros — sem framework, sem build, sem dependência.
-
-- Sistema visual de 1 bit: duas cores por tema e dithering no lugar de imagem
-- A esfera do topo e o redemoinho da timeline não são arquivos — são canvas pintados pixel a pixel com matriz de Bayer 8×8 ordenada, com a direção da luz seguindo o cursor
-- Após vinte segundos parada a esfera "dorme" e vai ficando rala; qualquer movimento na página acorda ela
-- **Stack:** HTML · CSS · JavaScript · Canvas API
-
----
-
-### [SUS: O Jogo do Impostor](https://github.com/luantaraschi/SUS)
-> Jogo multiplayer em tempo real onde jogadores tentam descobrir quem é o impostor.
-
-- Projeto para explorar estado distribuído em tempo real sem servidor central — salas com blefe, discussão e votação entre jogadores
-- Três modos de jogo: Palavra, Pergunta e Local
-- **Stack:** Next.js · Convex · Tailwind CSS · Framer Motion · Three.js
-
----
-
-### [Hand Gestures](https://github.com/luantaraschi/Hand-Gestures)
-> Controle por gestos de mão via visão computacional em tempo real.
-
-- Exploração de interfaces sem toque — reconhecimento de gestos usando MediaPipe e OpenCV rodando localmente, sem dependência de API externa
-- Aplicável a interfaces acessíveis e controle por movimento
-- **Stack:** Python · OpenCV · MediaPipe
-
----
-
-### [Seamless AI Dub](https://github.com/luantaraschi/seamless-ai-dub)
-> Dublagem automática de vídeos de inglês para português.
-
-- Construído para resolver o problema de conteúdo em português — pipeline completo de transcrição, tradução e síntese de voz, com sincronização por segmento
-- **Stack:** Python · Whisper · OpenRouter · Edge-TTS · MoviePy
-
----
-
-### [Dev Tools](https://github.com/luantaraschi/dev-tools)
-> Painel web que reúne utilitários de desenvolvimento numa interface única.
-
-- Conversão de arquivos, geração de dados e formatação centralizados num dashboard com tema claro/escuro e navegação lateral
-- **Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS 4
-
----
 
 ### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0) · *fork de estudo*
 > Estudo sobre o [llm-council](https://github.com/karpathy/llm-council), de Andrej Karpathy.
