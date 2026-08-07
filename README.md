@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Desenvolvedor full-stack focado em legaltech e automação com WhatsApp. Construo produtos do zero, da ideia ao deploy, com TypeScript, Python e LLMs.
+Desenvolvedor full-stack Construo produtos do zero, da ideia ao deploy, com TypeScript, Python e LLMs.
 
 Salvador, Bahia — Brasil
 
