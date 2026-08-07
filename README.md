@@ -43,11 +43,3 @@ Salvador, Bahia — Brasil
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-
-### [AI Council 2.0](https://github.com/luantaraschi/Ai-Council-2.0) · *fork de estudo*
-> Estudo sobre o [llm-council](https://github.com/karpathy/llm-council), de Andrej Karpathy.
-
-- O conceito e o código base são do autor original: vários LLMs respondem à mesma pergunta via OpenRouter, revisam e ranqueiam uns aos outros, e um modelo presidente sintetiza a resposta final
-- **O que eu acrescentei:** containerização completa (Docker Compose, Dockerfiles e nginx), dependências fixadas, camada de abstração do cliente de LLM e troca do armazenamento local por persistência em Supabase
-- **Stack:** Python · Docker · Supabase · OpenRouter
