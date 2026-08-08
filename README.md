@@ -8,6 +8,4 @@
 
 </div>
 
-I build software for a law office in Salvador, sitting next to the people who use it.
-
 [LinkedIn](https://www.linkedin.com/in/luantaraschi/) · [Site](https://luantaraschi.dev)
