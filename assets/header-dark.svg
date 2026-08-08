@@ -8,7 +8,7 @@
   </style>
   <text class="name" x="0" y="74" textLength="400" lengthAdjust="spacing">luantaraschi</text>
   <rect class="cur" x="412" y="34" width="15" height="46" rx="2"/>
-  <text class="sub" x="2" y="116">full-stack developer · open source contributor · typescript · python · next.js</text>
+  <text class="sub" x="2" y="116">full-stack developer · open source contributor</text>
   <rect x="2"   y="136" width="120" height="3" rx="1.5" fill="#e6edf3" opacity="0.9"/>
   <rect x="126" y="136" width="46"  height="3" rx="1.5" fill="#e6edf3" opacity="0.45"/>
   <rect x="176" y="136" width="18"  height="3" rx="1.5" fill="#e6edf3" opacity="0.2"/>
